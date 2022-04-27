@@ -1,4 +1,5 @@
 <h1 align="center">Hi there, I'm Jacobo Valenzuela</h1>
+
 - 💬 Ask me about **software engineering**
 
 - 📫 How to reach me **valen306@cougars.csusm.edu**
