@@ -1,17 +1,4 @@
 <h1 align="center">Hi there, I'm Jacobo Valenzuela</h1>
-
-- 💬 Ask me about **software engineering**
-
-- 📫 How to reach me **valen306@cougars.csusm.edu**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/jacoboveesway" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jacoboveesway" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/jacob valenzuela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jacob valenzuela" height="30" width="40" /></a>
-<a href="https://discord.gg/jacobo#3322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jacobo#3322" height="30" width="40" /></a>
-</p>
-
-<h1 align="center">Hi there, I'm Jacobo Valenzuela</h1>
 - 💬 Ask me about **software engineering**
 
 - 📫 How to reach me **valen306@cougars.csusm.edu**
